@@ -1,2 +1,2 @@
 # js-learn
-A code repo for javascript series at Chai aur Code Channel
+A code repo for learning javascript from Chai aur Code
